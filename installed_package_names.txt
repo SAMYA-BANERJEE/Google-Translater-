@@ -1,0 +1,2 @@
+create a venv(virtual invironment).
+pip install googletrans
